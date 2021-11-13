@@ -3,5 +3,9 @@ local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/S3nKe
 end
 
 if game.PlaceId == 2788229376 then
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/S3nKeTsu/eplice/main/hub"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/nighter132/Faded/main/YesEpic", true))()
+end
+
+if game.PlaceId == 1599679393 then
+local Library =  loadstring(game:HttpGet("https://raw.githubusercontent.com/si1nnx/psxx/main/g"))()
 end
