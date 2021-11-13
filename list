@@ -1,0 +1,7 @@
+if game.PlaceId == 142823291 then
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/S3nKeTsu/eplice/main/hub"))()
+end
+
+if game.PlaceId == 2788229376 then
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/S3nKeTsu/eplice/main/hub"))()
+end
